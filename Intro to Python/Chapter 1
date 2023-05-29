@@ -1,0 +1,7 @@
+#Python Basic Chapter 1
+
+#Python is a popular programming language.
+
+print("Hello, World!") #you use function print() to read the final outcome
+
+exit()
